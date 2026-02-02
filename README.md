@@ -35,15 +35,17 @@ IP واستخراج بيانات الموقع الجغرافي ومزود الخ
 * **🛡️ System Auditor:** فحص العمليات النشطة في النظام (Processes) والمنافذ المفتوحة (Network Connections).
 * **📂 Tools Kit:**
     * **Port Scanner:** فحص المنافذ باستخدام `ThreadPoolExecutor` للسرعة.
-    * <img width="1130" height="308" alt="Screenshot 2026-02-02 141850" src="https://github.com/user-attachments/assets/5d27c7eb-9cc5-44ff-87e8-eb6e2326cac3" />
-
+    *<img width="1912" height="538" alt="7" src="https://github.com/user-attachments/assets/8d60899b-f1bd-46e2-abaa-dbf5087ec68a" />
 
     * **Dir Brute Forcer:** كشف المسارات في المواقع.
     * <img width="1130" height="308" alt="Screenshot 2026-02-02 141850" src="https://github.com/user-attachments/assets/b48fee2c-e6ff-4a7d-a861-bfbfd48fb7b4" />
-<img width="1130" height="308" alt="Screenshot 2026-02-02 141850" src="https://github.com/user-attachments/assets/8da9b88c-68d8-44b3-a9e3-eec1beb73301" />
+
 
     * **Hash Analysis:** حساب قيم (MD5, SHA1, SHA256) للملفات.
-    * <img width="1136" height="310" alt="Screenshot 2026-02-02 141956" src="https://github.com/user-attachments/assets/ce8b5cbc-69dd-4987-8d61-065798aa969c" />
+    * <img width="1136" height="310" alt="Screenshot 2026-02-02 141956" src="https://github.com/user-attachments/assets/58723a1b-9775-476f-85f7-777d36e6673d" />
+
+
+
 
 * **📝 Report Generator:** تصدير كافة النتائج والتقارير بصيغة نصية (.txt) بضغطة زر.
 <img width="1164" height="560" alt="Screenshot 2026-02-02 142111" src="https://github.com/user-attachments/assets/54fe4647-10c9-4f62-aaa0-608e9541ce75" />
