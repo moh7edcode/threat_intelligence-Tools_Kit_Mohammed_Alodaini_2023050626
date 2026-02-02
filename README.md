@@ -59,7 +59,7 @@ IP واستخراج بيانات الموقع الجغرافي ومزود الخ
 * **📝 Report Generator:** تصدير كافة النتائج والتقارير بصيغة نصية (.txt) بضغطة زر.
 
 <img width="1164" height="560" alt="Screenshot 2026-02-02 142111" src="https://github.com/user-attachments/assets/f17ee1f4-5c62-4c55-83c4-c1e2f18239d9" />
-<img width="1164" height="560" alt="Screenshot 2026-02-02 142111" src="https://github.com/user-attachments/assets/7e3e675f-6409-4fb9-809f-c631650befd1" />
+
 
 ---
 
