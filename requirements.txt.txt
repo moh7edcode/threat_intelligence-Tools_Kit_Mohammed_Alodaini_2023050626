@@ -1,0 +1,28 @@
+# مكتبة التعامل مع طلبات الـ HTTP والـ APIs
+requests
+
+# مكتبة تحليل والتقاط حزم الشبكة
+scapy
+
+# مكتبة مراقبة موارد النظام (اختياري حسب المشروع)
+psutil
+
+# المكتبات التالية مدمجة في بايثون ولا تحتاج تثبيت خارجي عادةً:
+# (tkinter, sqlite3, hashlib, threading, json)
+
+
+import tkinter as tk
+from tkinter import ttk, scrolledtext, messagebox, filedialog
+import threading
+import sqlite3
+import requests
+import json
+import os
+from datetime import datetime
+import hashlib
+import time
+import socket
+from concurrent.futures import ThreadPoolExecutor
+import random
+import re
+from scapy.all import sniff, wrpcap, rdpcap, IP, TCP, UDP, Raw, Ether
