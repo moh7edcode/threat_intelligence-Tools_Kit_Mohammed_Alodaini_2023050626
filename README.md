@@ -13,42 +13,53 @@
 بناءً على الكود المصدري، توفر الأداة الميزات التالية:
 
 * **📊 Dashboard & Stats:** مراقبة حية لاستهلاك المعالج (CPU) والذاكرة (RAM) مع عرض إحصائيات قاعدة البيانات.
-*  <img width="1120" height="570" alt="1" src="https://github.com/user-attachments/assets/0dde5f38-5abc-403b-bfa0-e0f7b77f20c0" />
+* <img width="1120" height="570" alt="1" src="https://github.com/user-attachments/assets/de36d999-a0ae-4bea-9940-4e0e2a7ec397" />
+
 * **🌍 GeoIP Tracker:** تتبع عناوين
 IP واستخراج بيانات الموقع الجغرافي ومزود الخدمة (ISP).
-<img width="1126" height="372" alt="2" src="https://github.com/user-attachments/assets/3fbfe79b-344c-4e95-b1f3-1cd7f0211799" />
+<img width="1126" height="372" alt="2" src="https://github.com/user-attachments/assets/4b993709-8afa-459b-8c98-42299de9a97f" />
+
 
 * **📡 Threat Feeds:** جلب تلقائي لأحدث التهديدات من `AbuseIPDB` و `URLHaus`.
-* <img width="1117" height="301" alt="3" src="https://github.com/user-attachments/assets/3df39760-1d61-4f8b-bebb-0461fb72f7d9" />
+<img width="1117" height="301" alt="3" src="https://github.com/user-attachments/assets/42db82fa-698d-47e5-aba3-3c2bc94b695d" />
+
 
 * **🔍 IOC Analysis:** محرك بحث متقدم داخل قاعدة بيانات `SQLite` المدمجة لإدارة مؤشرات الاختراق.
 * **🌐 HTTP Traffic Monitor:** مراقبة وتحليل طلبات HTTP الواردة والصادرة.
-* <img width="1127" height="577" alt="4" src="https://github.com/user-attachments/assets/7ef04f72-e8f0-4051-ba66-e4d072fe7a5a" />
+* />
+<img width="1127" height="577" alt="4" src="https://github.com/user-attachments/assets/daf680e7-fc22-43c5-bbe6-66da2e569ad7" />
 
 * **📦 Packet Capture (Online/Offline):**
-* <img width="1149" height="482" alt="5" src="https://github.com/user-attachments/assets/5b2592e2-021a-4b96-80b6-f15554320bd7" />
+* 
+<img width="1149" height="482" alt="5" src="https://github.com/user-attachments/assets/ae19b908-99ba-4898-9e80-954fb8c07537" />
 
     * **Live Sniffing:** التقاط حزم البيانات مباشرة.
     * **Offline Analysis:** تحليل ملفات `PCAP` الجاهزة للكشف عن هجمات (SQLi, XSS).
-    * <img width="1117" height="327" alt="6" src="https://github.com/user-attachments/assets/d482546a-ddcc-489f-b187-8ad3cfd18c44" />
+    * <img width="1117" height="327" alt="6" src="https://github.com/user-attachments/assets/6c41ba77-9989-496d-a9c9-2a4154650db1" />
+
 
 * **🛡️ System Auditor:** فحص العمليات النشطة في النظام (Processes) والمنافذ المفتوحة (Network Connections).
 * **📂 Tools Kit:**
     * **Port Scanner:** فحص المنافذ باستخدام `ThreadPoolExecutor` للسرعة.
-    *<img width="1912" height="538" alt="7" src="https://github.com/user-attachments/assets/8d60899b-f1bd-46e2-abaa-dbf5087ec68a" />
+    
+<img width="1912" height="538" alt="7" src="https://github.com/user-attachments/assets/0baada5e-932c-4f62-ad32-5856b960f7de" />
 
     * **Dir Brute Forcer:** كشف المسارات في المواقع.
-    * <img width="1130" height="308" alt="Screenshot 2026-02-02 141850" src="https://github.com/user-attachments/assets/b48fee2c-e6ff-4a7d-a861-bfbfd48fb7b4" />
+    *
+<img width="1130" height="308" alt="Screenshot 2026-02-02 141850" src="https://github.com/user-attachments/assets/76225bc5-6e2b-47f9-ae55-43fb5c782dac" />
 
 
     * **Hash Analysis:** حساب قيم (MD5, SHA1, SHA256) للملفات.
-    * <img width="1136" height="310" alt="Screenshot 2026-02-02 141956" src="https://github.com/user-attachments/assets/58723a1b-9775-476f-85f7-777d36e6673d" />
+    *
+<img width="1136" height="310" alt="Screenshot 2026-02-02 141956" src="https://github.com/user-attachments/assets/f1960735-446a-47c9-8201-04fea88669af" />
 
 
 
 
 * **📝 Report Generator:** تصدير كافة النتائج والتقارير بصيغة نصية (.txt) بضغطة زر.
-<img width="1164" height="560" alt="Screenshot 2026-02-02 142111" src="https://github.com/user-attachments/assets/54fe4647-10c9-4f62-aaa0-608e9541ce75" />
+
+<img width="1164" height="560" alt="Screenshot 2026-02-02 142111" src="https://github.com/user-attachments/assets/f17ee1f4-5c62-4c55-83c4-c1e2f18239d9" />
+<img width="1164" height="560" alt="Screenshot 2026-02-02 142111" src="https://github.com/user-attachments/assets/7e3e675f-6409-4fb9-809f-c631650befd1" />
 
 ---
 
