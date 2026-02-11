@@ -1,4 +1,4 @@
-# 🛡️ Threat Intelligence Pro v1.0 - Cyber Command Center
+# 🛡️ Threat Intelligence - Cyber Command Center
 > **منصة سيبرانية شاملة: تحليل استخباراتي، فحص ثغرات، وأدلة جنائية رقمية.**
 
 ---
